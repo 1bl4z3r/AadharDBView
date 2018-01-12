@@ -6,6 +6,8 @@ Prereqistics:
 1. Python
 2. MySQL connector for Python
 Steps:
+
+
 >Create database on MySQL, and input data
 >Put username, password, database name in asteriks
 >Orginally designed for fetching table contents upon checking number(aadhar no specifically)
